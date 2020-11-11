@@ -1,7 +1,11 @@
 ---
+
+title: Hacking Your Perspective
+
 voice: Brian
 voice-speed: fast
 transition: crossfade
+
 ---
 
 ![](intro.mp4)
