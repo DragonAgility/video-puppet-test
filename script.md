@@ -8,11 +8,13 @@ transition: crossfade
 
 ---
 
-![contain](01.jpg)
+![contain](/01.jpg)
 
 > Hacking Your Perspective
 
-Welcome to the Singularity Hacker series. If you are joining us for first time, welcome! In this series we’ll explore ideas and cultural trends related to the internet and information technology. Today’s show is on Hacking Your Perspective
+foo test
+
+Welcomeeeeee to the Singularity Hacker series. If you are joining us for first time, welcome! In this series we’ll explore ideas and cultural trends related to the internet and information technology. Today’s show is on Hacking Your Perspective
 
 ---
 
@@ -70,42 +72,6 @@ Simply stated, a Stirling engine is an engine driven by differences in temperatu
 ![contain](10.gif)
 
 It is this. It is not ubiquity, continuity, or unanimity that produces strength. It is the intelligent and creative redirection of dynamic forces and realities that produces value. 
-
----
-
-![contain](11.jpg)
-
-In his book David and Goliath, Malcolm Gladwell examines notable historical people who had, what seemed to be, disadvantages but who turned those perceived disadvantages into strengths. Following this train of thought, a profound idea presents itself. What if everyone’s perceived disadvantages are, in fact, unique opportunities to become people we could not otherwise be? And what if characteristics we routinely think of as unmitigated strengths come with their own negative tradeoffs?
-
----
-
-![contain](12.jpg)
-
-Or, to use Gladwell’s own words, Giants are not what we think they are. The same Qualities that appear to give them strength are often the sources of great weakness.
-
----
-
-![contain](13.jpg)
-
-All of economics and engineering demonstrate this fundamental principle. That there is no free lunch. There are trade-offs to every perceived strength or weakness. This holds true for a person's makeup, history, knowledge, and current position in life. Herein lies the challenge and opportunity you face today. Identify the unique arbitrage opportunities present in your exact situation and, like a Stirling engine, use them to your advantage. The only question is whether or not we are seeing them. 
-
----
-
-![contain](14.jpg)
-
-```md
-* What unique resource do I have an abundance of right now?
-* To whom or in what context would this resource be of greater value?
-* What can be done to capitalize on this disequilibrium?
-```
-
-Ask yourself these three questions. What unique resource do I have an abundance of right now? To whom or in what context would this resource be of greater value? Lastly, ask. What can be done to capitalize on this disequilibrium? 
-
----
-
-![contain](15.jpg)
-
-May this be a reminder to us all that we are the product of our choices, not merely victims of our circumstances. I hope you have found these ideas helpful.
 
 ---
 
