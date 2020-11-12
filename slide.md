@@ -6,9 +6,9 @@ slideOptions:
   center: true
 # tags specific to hackmd but will casue error on narakeet build
 
-voice: Brian
-voice-speed: fast
-transition: crossfade
+# voice: Brian
+# voice-speed: fast
+# transition: crossfade
 # global config tags specific to narakeet (causes no isses with hackmd)
 
 ---
@@ -27,6 +27,7 @@ transition: crossfade
 <!-- ![contain](01.jpg) -->
 
 > Shown in video and blockquoted in slide mode
+<!-- blockquote not shown in video generation -->
 
 Note:
 All normal text will be read in narakeet. Any text prefixed with "Note:" will be hidden behind speaker notes in hackmd slide mode.
@@ -35,6 +36,7 @@ Blockquotes are shown but not spoken in video generation. Might require an image
 ---
 
 > Pure text test using only blockquote character. Compare to next slide for comparison.
+<!-- blockquote not shown in video generation. also blank screen becaue no image but notes still read. -->
 
 Note:
 More speaker notes.
@@ -44,6 +46,7 @@ More speaker notes.
 ```
 Very important purely text slide test. Difference between this and using the < character is that one shows as block quote and word wraps in slide mode.
 ```
+<!-- looks like crap on video. takes up the whole screen. -->
 
 Note:
 This should be a pure textual slide in video compilation.
@@ -61,6 +64,7 @@ This should be a pure textual slide in video compilation.
 * bullet 2
   * sub-bullet
 ```
+<!-- renders directly over image in video but below it in slide mode. -->
 
 Note:
 This should render as narkdown in slide mode and video compilation.
@@ -76,6 +80,7 @@ This should render as narkdown in slide mode and video compilation.
   display: flex;
 }
 ```
+<!-- renders directly over image in video but below it in slide mode. -->
 
 Note:
 This is a CSS render test. I hope it works in both slide mode and video generation.
@@ -90,6 +95,7 @@ Should render with line numbers in hackmd.
 Does it work?
 We shall see.
 ```
+<!-- renders directly over image in video but below it in slide mode. -->
 
 Note:
 This is a line number test. Does it work?
@@ -102,6 +108,7 @@ This is a line number test. Does it work?
 ```!
 This should render with sofwrap in hackmd but it seems to not be working. Maybe the issue is happening because we are presetnign in slide mode.
 ```
+<!-- renders directly over image in video but below it in slide mode. -->
 
 Note:
 This is an animated gif test and text softwrap test. The softwrap test doesnt seem to be working in slide mode and I think it may just be failing because its slide mode.
@@ -113,6 +120,7 @@ This is an animated gif test and text softwrap test. The softwrap test doesnt se
 
 Note:
 Pure gif test with only speaker notes and no overlay text.
+<!-- looks good -->
 
 ---
 
